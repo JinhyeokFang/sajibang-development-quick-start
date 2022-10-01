@@ -1,4 +1,5 @@
-window.open('https://code.jinhy.uk/?folder=/home/ubuntu/workspace')
+window.open('https://code.saintdev.kr/?folder=/config/workspace')
+window.open('http://direct.saintdev.kr:8444')
 window.open('https://github.com/jinhyeokfang/?tab=repositories')
 window.open('https://discord.com/channels/@me')
 window.open('https://music.youtube.com')
